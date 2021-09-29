@@ -6,19 +6,26 @@
 ## Index 
 ### 유투브 채널
  - [TED](#TED)
+ - [NomadCoder](#NomadCoder)
  - [NDC Conferences](#NDC-Conferences)
  - [토스](#Toss)
  - [Coding Tech](#Coding-Tech)
  - [Fireship IO](#Fireship-IO)
  - [Metosin](#Metosin)
  - [UnityCoin](#UnityCoin)
-
+ - [Codegram](#Codegram)
+ - [NextDayVideo](#NextDayVideo)
 
 ### TED
 | Title | Speaker | Link | Duration |
 | ----- | ------- | ---- | -------- |
 | The mind behind Linux(리눅스 뒤에 숨겨진 이야기) | Linus Tovalds | [Link](https://www.youtube.com/watch?v=o8NPllzkFhE) | 21.5분 |
 | The future we're building - and boring(우리가 이루려하는 미래) | Elon Musk | [Link](https://www.youtube.com/watch?v=zIwLWfaAg-8) | 41분 |
+
+### NomadCoder
+| Title | Speaker | Link | Duration |
+| ----- | ------- | ---- | -------- |
+| 넷플릭스 벡엔드 아키텍쳐 - 10분만에 설명하기 | 노마드코더 | [Link](https://www.youtube.com/watch?v=_DDkSF5TvEU) | 9분 |
 
 ### NDC Conferences
 | Title | Speaker | Link | Duration |
@@ -30,8 +37,6 @@
 | Title | Speaker | Link | Duration |
 | ----- | ------- | ---- | -------- |
 | 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기 | 박서진 | [Link](https://www.youtube.com/watch?v=FvRtoViujGg) | 22분 |
-
-
 
 ### Coding Tech
 | Title | Speaker | Link | Duration |
@@ -58,3 +63,15 @@
 | Title | Speaker | Link | Duration |
 | ----- | ------- | ---- | -------- |
 | Clean Code - part 1, 2 | Robert Cecil Martin(애자일의 창시자) | [Link1](https://www.youtube.com/watch?v=7EmboKQH8lM) [Link2](https://www.youtube.com/watch?v=2a_ytyt9sf8)| 3시간 |
+
+### Codegram
+| Title | Speaker | Link | Duration |
+| ----- | ------- | ---- | -------- |
+| Rust, WebAssembly, and the future of Serverless(Rust, WebAssembly 그리고 서버리스의 미래) | Steve Klabnik | [Link](https://www.youtube.com/watch?v=CMB6AlE1QuI)| 40분 |
+
+
+### NextDayVideo
+| Title | Speaker | Link | Duration | Content |
+| ----- | ------- | ---- | -------- | ------- |
+| Transforming Code into Beautiful, Idiomatic Python(파이썬 코드를 아름답고 관용적이게 변화시키는 법) | Raymond Hettinger | [Link](https://www.youtube.com/watch?v=OSGv2VnC0go)| 49분 | [TCBIP]() | 
+
