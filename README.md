@@ -5,6 +5,7 @@
 
 ## Index 
 ### 유투브 채널
+ - [NextDayVideo](#NextDayVideo)
  - [TED](#TED)
  - [NomadCoder](#NomadCoder)
  - [NDC Conferences](#NDC-Conferences)
@@ -14,7 +15,12 @@
  - [Metosin](#Metosin)
  - [UnityCoin](#UnityCoin)
  - [Codegram](#Codegram)
- - [NextDayVideo](#NextDayVideo)
+
+
+### NextDayVideo
+| Title | Speaker | Link | Duration | 정리 |
+| ----- | ------- | ---- | -------- | ------- |
+| Transforming Code into Beautiful, Idiomatic Python(파이썬 코드를 아름답고 관용적이게 변화시키는 법) | Raymond Hettinger | [Link](https://www.youtube.com/watch?v=OSGv2VnC0go)| 49분 | [TCBIP](https://github.com/KKodiac/conference/tree/main/doc/TCBIP) | 
 
 ### TED
 | Title | Speaker | Link | Duration |
@@ -70,8 +76,4 @@
 | Rust, WebAssembly, and the future of Serverless(Rust, WebAssembly 그리고 서버리스의 미래) | Steve Klabnik | [Link](https://www.youtube.com/watch?v=CMB6AlE1QuI)| 40분 |
 
 
-### NextDayVideo
-| Title | Speaker | Link | Duration | Content |
-| ----- | ------- | ---- | -------- | ------- |
-| Transforming Code into Beautiful, Idiomatic Python(파이썬 코드를 아름답고 관용적이게 변화시키는 법) | Raymond Hettinger | [Link](https://www.youtube.com/watch?v=OSGv2VnC0go)| 49분 | [TCBIP]() | 
 
