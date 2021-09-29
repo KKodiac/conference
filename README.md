@@ -52,9 +52,9 @@
 | Future of Ethereum: Chat with Vitalik Buterin(이더리움의 미래: 이더리움 창시자와의 대화) | Vitalik Buterin | [Link](https://www.youtube.com/watch?v=TjYYMrY3Tis) | 19분 |
 
 ### Fireship
-| Title | Speaker | Link | Duration |
-| ----- | ------- | ---- | -------- |
-| 13 Advanced(but useful) Git Techniques and Shortcuts (13가지 고오급(쓸모있는) 깃 사용법) | Fireship | [Link](https://www.youtube.com/watch?v=ecK3EnyGD8o) | 8분 |
+| Title | Speaker | Link | Duration | 정리 |
+| ----- | ------- | ---- | -------- | --- |
+| 13 Advanced(but useful) Git Techniques and Shortcuts (13가지 고오급(쓸모있는) 깃 사용법) | Fireship | [Link](https://www.youtube.com/watch?v=ecK3EnyGD8o) | 8분 | [정리](https://www.notion.so/kkodiac/Git-commands-ee7e4cfc0987459b8333ee8c5edb0015)
 | 7 Database Paradigms(7가지 데이터베이스 패러다임) | Fireship | [Link](https://www.youtube.com/watch?v=W2Z7fbCLSTw) | 10분 |
 | How to OVER Engineer a Website // What is a Tech Stack?(오버하며 웹사이트 만드는 법 // 기술 스택이 뭐냐?) | Fireship | [Link](https://www.youtube.com/watch?v=Sxxw3qtb3_g) | 11분 |
 | Top 50+ AWS Services Explained in 10 Minutes(상위 50+가지 AWS 서비스 10분안에 설명하기) | Fireship | [Link](https://www.youtube.com/watch?v=JIbIYCM48to) | 12분 |
