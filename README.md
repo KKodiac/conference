@@ -11,7 +11,7 @@
  - [NDC Conferences](#NDC-Conferences)
  - [토스](#Toss)
  - [Coding Tech](#Coding-Tech)
- - [Fireship IO](#Fireship-IO)
+ - [Fireship IO](#Fireship)
  - [Metosin](#Metosin)
  - [UnityCoin](#UnityCoin)
  - [Codegram](#Codegram)
