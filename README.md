@@ -15,6 +15,7 @@
  - [Metosin](#Metosin)
  - [UnityCoin](#UnityCoin)
  - [Codegram](#Codegram)
+ - [Docker](#Docker)
 
 
 ### NextDayVideo
@@ -76,4 +77,7 @@
 | Rust, WebAssembly, and the future of Serverless(Rust, WebAssembly 그리고 서버리스의 미래) | Steve Klabnik | [Link](https://www.youtube.com/watch?v=CMB6AlE1QuI)| 40분 |
 
 
-
+### Docker 
+| Title | Speaker | Link | Duration | 정리 |
+| ----- | ------- | ---- | -------- | --- |
+| What Have Namespaces Done for You Lately? | Liz Rice | [Link](https://www.youtube.com/watch?v=MHv6cWjvQjM&t=876s)| 32분 | [정리](https://github.com/KKodiac/containers-from-scratch)
